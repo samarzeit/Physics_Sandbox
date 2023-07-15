@@ -9,3 +9,15 @@ With an intuitive interface, you'll effortlessly navigate through the applicatio
 By blending the principles of functional and object-oriented programming, we have created a harmonious fusion that optimizes the strengths of both paradigms. Embrace the elegance and conciseness of functional programming, allowing you to write clean and efficient code that is easy to reason about. Meanwhile, embrace the flexibility and modularity offered by object-oriented programming, empowering you to create robust and extensible simulations.
 
 Furthermore, the influence of gravity elegantly affects the motion of objects, creating a mesmerizing dance of shapes across the screen. Each interaction is thoughtfully crafted to provide a rich and immersive experience, fueling your curiosity and sparking your creativity.
+
+
+## Contributions
+This project was made group of four students
+- Tania Ugarte Guzman (taniafug)
+- Madhurima Khamroy (Madhurima8)
+- Miriam Nohemi López Cruz (MiriamN92)
+- Samarzeit Muralidharan (Myself)
+
+
+  
+ Contributions are welcome! If you have any ideas, improvements, or bug fixes, please open an issue or submit a pull request.
